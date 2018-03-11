@@ -8,7 +8,7 @@
   <name>simple_java</name>
   <url>http://maven.apache.org</url>
   
-  !--
+  <!--
 Url details of the nexus repo on the tomcat server hosted on the
 ubuntu version in virtual box.
 -->
